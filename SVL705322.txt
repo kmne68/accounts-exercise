@@ -1,0 +1,4 @@
+Mar 28, 2017 12:08:34 AM: SV Account 001 705322 opened.
+Mar 28, 2017 12:08:49 AM: Charge of $372.00 for  posted.
+Mar 28, 2017 12:08:58 AM: Deposit of $125.00 posted.
+Mar 28, 2017 12:09:06 AM: Interest earned = $1.88 for month at annual rate of: 3%

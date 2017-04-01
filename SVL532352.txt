@@ -1,0 +1,4 @@
+Apr 1, 2017 11:29:53 AM: CK Account eval test 2 532352 opened.
+Apr 1, 2017 11:30:05 AM: Charge of $12.00 for book posted.
+Apr 1, 2017 11:30:17 AM: Deposit of $198.00 posted.
+Apr 1, 2017 11:30:25 AM: Interest request: No action - checking accounts do not earn interest

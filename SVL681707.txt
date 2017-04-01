@@ -1,0 +1,3 @@
+Apr 1, 2017 11:24:04 AM: CK Account eval 1 681707 opened.
+Apr 1, 2017 11:24:15 AM: Charge of $5.00 for lunch posted.
+Apr 1, 2017 11:24:26 AM: Interest request: No action - checking accounts do not earn interest

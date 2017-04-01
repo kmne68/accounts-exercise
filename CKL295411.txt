@@ -1,0 +1,4 @@
+Mar 28, 2017 12:07:38 AM: Checking Account keith 295411 opened.
+Mar 28, 2017 12:07:48 AM: Charge of $50.00 for test posted.
+Mar 28, 2017 12:08:00 AM: Deposit of $5.00 posted.
+Mar 28, 2017 12:08:08 AM: Interest request: No action - checking accounts do not earn interest

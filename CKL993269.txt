@@ -1,0 +1,2 @@
+Mar 30, 2017 9:57:15 PM: Checking Account check 993269 opened.
+Mar 30, 2017 9:57:28 PM: Charge of $5.00 for test posted.

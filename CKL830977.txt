@@ -1,0 +1,4 @@
+Mar 30, 2017 9:11:34 PM: Checking Account checking 830977 opened.
+Mar 30, 2017 9:11:46 PM: Interest request: No action - checking accounts do not earn interest
+Mar 30, 2017 9:12:06 PM: Charge of $34.00 for check 1 posted.
+Mar 30, 2017 9:12:17 PM: Deposit of $76.52 posted.

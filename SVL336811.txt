@@ -1,0 +1,4 @@
+Apr 1, 2017 11:25:05 AM: SV Account eval save 1 336811 opened.
+Apr 1, 2017 11:25:18 AM: Charge of $123.21 for repairs posted.
+Apr 1, 2017 11:25:25 AM: Deposit of $256.00 posted.
+Apr 1, 2017 11:25:33 AM: Interest earned = $12.83 for month at annual rate of: 3%

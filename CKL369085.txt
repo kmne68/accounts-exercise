@@ -1,0 +1,4 @@
+Mar 22, 2017 7:14:52 PM: Checking Account BOA Checking #1 369085 opened.
+Mar 22, 2017 7:15:37 PM: Charge of $52.17 for gas posted.
+Mar 22, 2017 7:15:49 PM: Deposit of $200.00 posted.
+Mar 22, 2017 7:16:01 PM: Interest request: No action - checking accounts do not earn interest

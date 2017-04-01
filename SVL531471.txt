@@ -1,0 +1,2 @@
+Mar 22, 2017 7:16:53 PM: SV Account BOA Savings 01 531471 opened.
+Mar 22, 2017 7:17:01 PM: Interest earned = $2.08 for month at annual rate of: 5%
