@@ -1,0 +1,2 @@
+Apr 5, 2017 8:03:58 PM: SV Account savings 61324 opened.
+Apr 5, 2017 8:04:14 PM: Charge of $500.00 for test posted.

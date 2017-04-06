@@ -1,0 +1,4 @@
+Apr 5, 2017 7:59:52 PM: CK Account checking 371602 opened.
+Apr 5, 2017 7:59:59 PM: Charge of $123.00 for test posted.
+Apr 5, 2017 8:00:06 PM: Deposit of $200.00 posted.
+Apr 5, 2017 8:00:11 PM: Interest request: No action - checking accounts do not earn interest

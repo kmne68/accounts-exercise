@@ -579,8 +579,8 @@ public class AccountsView extends FrameView {
                 jtxtAcctNo.setText(String.valueOf(assetAccount.getAcctNo()));
                 jtxtAcctTypeCd.setText(Savings.TYPECD);
                 jtxtAcctTypeDesc.setText(Savings.TYPEDESC);
-                jtxtBalance.setText(curr.format(assetAccount.getBalance()));
-                break;
+                jtxtBalance.setText(curr.format(assetAccount.getBalance())); 
+                break; 
             case Checking.TYPECD:
                 assetAccount = new Checking(jtxtAcctNm.getText(),sbal);
                 jtxtDisplayName.setText(assetAccount.getName());
